@@ -11,8 +11,12 @@ skills:
   - NativeScript
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello! I'm Rohit, a 3rd year Computer Science student at [Jacobs University, Bremen](https://www.jacobs-university.de). I work as part-time Software Engineer a young startup called [Digital Guest Solutions](https://guest-solutions.com) based in Oldenburg, Germany. I enjoy building things that live on the internet and serve people. I develop exceptional websites and web apps that provide interactive interfaces with efficient and modern backends.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I have keen interested in Computer Vision, Automation and Robotics and working my way through University.
+
+I am currently writing my thesis at [Institute of Space Systems - German Space Center, Bremen](https://www.dlr.de/irs/en/desktopdefault.aspx/tabid-11286/#gallery/27786). I am working on Control Environment Agrilculture Systems research.
+
+I am always excited about learning new technologies. I think, skill to learn something is important than knowing something already. So, Happy Learning !!
 
 Here are a few technologies I've been working with recently:
