@@ -2,13 +2,15 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
+  - Python
+  - C++
+  - PHP
+  - C
+  - Matlab
   - React
-  - Vue
-  - Node.js
-  - Express
-  - NativeScript
+  - Javascript
+  - Laravel
+  - REST API
 ---
 
 Hello! I'm Rohit, a 3rd year Computer Science student at [Jacobs University, Bremen](https://www.jacobs-university.de). I work as part-time Software Engineer a young startup called [Digital Guest Solutions](https://guest-solutions.com) based in Oldenburg, Germany. I enjoy building things that live on the internet and serve people. I develop exceptional websites and web apps that provide interactive interfaces with efficient and modern backends.
