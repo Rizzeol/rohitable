@@ -6,7 +6,7 @@ module.exports = {
     'Rohit Paudel, Rohit, Paudel, rizzeol, software engineer, backend developer, backend engineer, fullstack developer, fullstack engineer, web developer, javascript, python, php, c++, c, jacobs university,',
   siteUrl: 'https://rohitable.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-162653025-1,
+  googleAnalyticsID: 'UA-162653025-1',
   googleVerification: '',
   name: 'Rohit Paudel',
   location: 'Bremen, Germany',
