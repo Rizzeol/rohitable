@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+/*import React, { useState, useEffect, useRef } from 'react';
 import { Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
@@ -226,3 +226,4 @@ Projects.propTypes = {
 };
 
 export default Projects;
+*/
