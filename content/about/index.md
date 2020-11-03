@@ -13,11 +13,11 @@ skills:
   - REST API
 ---
 
-Hello! I'm Rohit, a 3rd year Computer Science student at [Jacobs University, Bremen](https://www.jacobs-university.de). I work as part-time Software Engineer a young startup called [Digital Guest Solutions](https://guest-solutions.com) based in Oldenburg, Germany. I enjoy building things that live on the internet and serve people. I develop exceptional websites and web apps that provide interactive interfaces with efficient and modern backends.
+Hello! I'm Rohit, Computer Science Graudate from [Jacobs University, Bremen](https://www.jacobs-university.de). I enjoy building things that live on the internet and serve people. I develop exceptional websites and web apps that provide interactive interfaces with efficient and modern backends.
 
-I have keen interested in Computer Vision, Automation and Robotics and working my way through University.
+I have keen interested in solving real life problems with modern technologies. My have deep interest in startup ecosystem and how we can solve existing problems with an agile startup. I like doing robotics and automation stuffs and consider it my hobby :)
 
-I am currently writing my thesis at [Institute of Space Systems - German Space Center, Bremen](https://www.dlr.de/irs/en/desktopdefault.aspx/tabid-11286/#gallery/27786). I am working on Control Environment Agrilculture Systems research.
+I am very passionate aobut space. I wrote my thesis at [Institute of Space Systems - German Space Center, Bremen](https://www.dlr.de/irs/en/desktopdefault.aspx/tabid-11286/#gallery/27786). I was working on Control Environment Agrilculture Systems research. It is fascinating to learn how we can grow food in space environment.
 
 I am always excited about learning new technologies. I think, skill to learn something is important than knowing something already. So, Happy Learning !!
 

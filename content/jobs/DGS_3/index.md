@@ -1,9 +1,9 @@
 ---
-date: '2029-12-01'
+date: '2020-12-01'
 title: 'Working Student Software Engineer'
 company: 'Digital Guest Solutions GmbH'
 location: 'Oldenburg, Germany'
-range: 'Dec 2019 -  Present'
+range: 'December 2019 -  August 2020'
 url: 'https://guest-solutions.com'
 ---
 
